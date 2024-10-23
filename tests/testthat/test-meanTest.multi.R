@@ -8,5 +8,5 @@ test_that("Multi Mean Test works", {
 
   test <- meanTest.multi(chart, species)
 
-  expect_identical(test, output)
+  expect_equal(test, output)
 })

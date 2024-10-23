@@ -1,6 +1,6 @@
 Package: MNormTest
 Title: Multivariate Normal Hypothesis Testing
-Version: 1.1.0
+Version: 1.1.1
 Authors@R: 
     person("Xifeng", "Zhang", , "cnxifeng9819@163.com", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0001-8878-3753"))
@@ -19,7 +19,7 @@ Suggests: rmarkdown, knitr, yaml, testthat (>= 3.0.0), devtools,
         roxygen2, pkgbuild, covr, usethis, DT
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-10-21 14:00:18 UTC; DELL
+Packaged: 2024-10-23 05:18:09 UTC; DELL
 Author: Xifeng Zhang [aut, cre] (<https://orcid.org/0009-0001-8878-3753>)
 Repository: CRAN
-Date/Publication: 2024-10-22 13:20:06 UTC
+Date/Publication: 2024-10-23 08:00:02 UTC

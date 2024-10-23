@@ -1,7 +1,7 @@
-8a14aaf9e2ac2cff8836907ec540b38a *DESCRIPTION
+fabc2b104a819c40f322105435e37d04 *DESCRIPTION
 81924b813f7ac4ad8614e96b05bd72d2 *LICENSE
 4fcaa97a69a0c42345f8a46a84fe860b *NAMESPACE
-8df2b72012129cc2bdb0ccec649d3f49 *NEWS.md
+65f1f99225253faa82019c74ea7c7e38 *NEWS.md
 519ef9c5730032e5d81238478866f84e *R/MNormTest.R
 0df4a950f8d45f8b02a2f867173f3c6f *README.md
 cf9ae2c2b0de97e4b651fdea9befccf0 *man/covTest.multi.Rd
@@ -19,10 +19,10 @@ be05d15434f71022a41eced39e0e500b *tests/testthat/Expect/indTestmultiExpected.RDa
 3a5e0c1c1a08ff41b6f3fb891d4cf248 *tests/testthat/Expect/meanTestsingleExpected.RData
 bc12e99bb83b5623087b84f2f7f5e6dd *tests/testthat/Expect/meanTesttwoExpected.RData
 e2abcc1e0cec0e62e73863e418a48eac *tests/testthat/Expect/meancovTestExpected.RData
-9bf5fd240697f3fbe7d328c9db972fd0 *tests/testthat/test-covTest.multi.R
-564def2ba3a38aa58e816e347290877d *tests/testthat/test-covTest.single.R
-4e6da8c5f535ad3e17b03d102a314194 *tests/testthat/test-indTest.multi.R
-fc3623d339d7536ea7104b3d6cfea760 *tests/testthat/test-meanTest.multi.R
-99aab300ad547e15ad15f16949d1d4fc *tests/testthat/test-meanTest.single.R
-8278fcd439c76d15f59be1c645e883aa *tests/testthat/test-meanTest.two.R
-adaecfa7fbaf4fbfda16ede202c6c304 *tests/testthat/test-meancov.Test.R
+94b32f3edc824b0a24d726f5cc146c84 *tests/testthat/test-covTest.multi.R
+37f77490619e98bd1eae48414662e5e1 *tests/testthat/test-covTest.single.R
+6cd4d543f6b24e5784d4de72ca88eeef *tests/testthat/test-indTest.multi.R
+350e6d7590c3f9984a4e4283b13a1c5c *tests/testthat/test-meanTest.multi.R
+a1c11e73d8bc5539eed9e98cb52c18a3 *tests/testthat/test-meanTest.single.R
+715fcf3158c74b17792de74bb7fb369f *tests/testthat/test-meanTest.two.R
+378d766473062458b750d56d3872c703 *tests/testthat/test-meancov.Test.R

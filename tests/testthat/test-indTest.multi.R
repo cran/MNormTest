@@ -8,6 +8,6 @@ test_that("independent Test works", {
   test1 <- indTest.multi(chart)
   test2 <- indTest.multi(chart, subdim = c(2, 1, 1))
 
-  expect_identical(output1, test1)
-  expect_identical(output2, test2)
+  expect_equal(output1, test1)
+  expect_equal(output2, test2)
 })

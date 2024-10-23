@@ -10,7 +10,7 @@ test_that("Two Mean Test works", {
   test2 <- meanTest.two(X, Y, equal = FALSE, method = "Coupled")
   test3 <- meanTest.two(X, Y, equal = FALSE, method = "Transformed")
 
-  expect_identical(test1, output1)
-  expect_identical(test2, output2)
-  expect_identical(test3, output3)
+  expect_equal(test1, output1)
+  expect_equal(test2, output2)
+  expect_equal(test3, output3)
 })

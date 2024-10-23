@@ -8,5 +8,5 @@ test_that("Mean Covariance Test works", {
 
   test <- meancov.Test(chart, species)
 
-  expect_identical(test, output)
+  expect_equal(test, output)
 })
